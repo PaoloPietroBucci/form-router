@@ -9,7 +9,7 @@ const formUrls = [
 ];
 
 const FormRouter = () => {
-  const handleClick = async () => {window.location.href = "https://script.google.com/macros/s/AKfycb.../exec"
+  const handleClick = async () => {window.location.href = "https://script.google.com/macros/s/AKfycbzTEiCnkUggRV37vfyuJDnLdEUkJvjstXy8LNWgftNLVmwN7jVIPMsUUPGUUhV3Kl1TIQ/exec"
 };
   ;
 
