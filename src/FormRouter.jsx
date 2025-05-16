@@ -19,7 +19,7 @@ const FormRouter = () => {
 
   return (
 <div style={{
-  backgroundColor: '##001F3F',
+  backgroundColor: '#001F3F',
   color: 'white',
   minHeight: '100vh',
   display: 'flex',
