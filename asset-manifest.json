@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-router/static/css/main.f855e6bc.css",
+    "main.js": "/form-router/static/js/main.025356cf.js",
+    "static/js/453.c7d7dfd7.chunk.js": "/form-router/static/js/453.c7d7dfd7.chunk.js",
+    "index.html": "/form-router/index.html",
+    "main.f855e6bc.css.map": "/form-router/static/css/main.f855e6bc.css.map",
+    "main.025356cf.js.map": "/form-router/static/js/main.025356cf.js.map",
+    "453.c7d7dfd7.chunk.js.map": "/form-router/static/js/453.c7d7dfd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.025356cf.js"
+  ]
+}
