@@ -9,7 +9,6 @@ const formUrls = [
 ];
 
 const FormRouter = () => {
-  console.log('Handling')
   const handleClick = async () => {
   const response = await fetch("https://script.google.com/macros/s/AKfycbzTEiCnkUggRV37vfyuJDnLdEUkJvjstXy8LNWgftNLVmwN7jVIPMsUUPGUUhV3Kl1TIQ/exec");
   const data = await response.json();
@@ -20,7 +19,7 @@ const FormRouter = () => {
 
   return (
 <div style={{
-  backgroundColor: '#001F3F',
+  backgroundColor: '##001F3F',
   color: 'white',
   minHeight: '100vh',
   display: 'flex',
