@@ -9,11 +9,7 @@ const formUrls = [
 ];
 
 const FormRouter = () => {
-  const handleClick = async () => {
-  const response = await fetch("https://script.google.com/macros/s/AKfycbzTEiCnkUggRV37vfyuJDnLdEUkJvjstXy8LNWgftNLVmwN7jVIPMsUUPGUUhV3Kl1TIQ/exec");
-  const data = await response.json();
-  const index = data.formIndex - 1;  // da 0 a 19
-  window.location.href = formUrls[index];
+  const handleClick = async () => {window.location.href = "https://script.google.com/macros/s/AKfycb.../exec"
 };
   ;
 
