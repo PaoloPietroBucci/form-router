@@ -11,8 +11,7 @@ const formUrls = [
 const FormRouter = () => {
   const handleClick = async () => {window.location.href = "https://script.google.com/macros/s/AKfycbzTEiCnkUggRV37vfyuJDnLdEUkJvjstXy8LNWgftNLVmwN7jVIPMsUUPGUUhV3Kl1TIQ/exec"
 };
-  ;
-
+https://script.google.com/macros/s/AKfycbzTEiCnkUggRV37vfyuJDnLdEUkJvjstXy8LNWgftNLVmwN7jVIPMsUUPGUUhV3Kl1TIQ/exec
   return (
 <div style={{
   backgroundColor: '#001F3F',
